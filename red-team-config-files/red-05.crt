@@ -1,0 +1,99 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 49 (0x31)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=OH, L=Cincinnati, O=CDX Project, OU=Dept. Elec. Eng. & Comp. Sys., CN=CDX Project CA/name=EasyRSA/emailAddress=franco@gauss.ececs.uc.edu
+        Validity
+            Not Before: Nov 19 20:59:10 2017 GMT
+            Not After : Nov 17 20:59:10 2027 GMT
+        Subject: C=US, ST=OH, L=Cincinnati, O=CDX Project, OU=Dept. Elec. Eng. & Comp. Sys., CN=red-05/name=EasyRSA/emailAddress=franco@gauss.ececs.uc.edu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:96:ce:87:e5:15:c7:0f:37:2e:c1:04:0d:91:d6:
+                    50:4c:59:db:86:83:34:82:49:0e:2f:eb:7d:8b:bc:
+                    99:8d:b5:e2:cc:f2:8a:79:18:06:38:09:35:34:c7:
+                    90:98:53:13:48:4d:ce:58:02:28:f2:31:3c:0a:d0:
+                    76:6d:c6:89:0d:3b:52:ee:5c:89:87:09:1d:25:6a:
+                    da:d0:e0:58:80:30:2e:01:84:34:7d:53:a3:dd:c8:
+                    f9:96:2f:cd:a7:dd:e0:1e:b8:d5:b6:f8:3b:06:7a:
+                    82:db:2f:c5:2a:27:ef:5a:83:a1:81:c6:25:17:b9:
+                    d1:3b:14:d8:23:94:07:76:52:b2:5d:d6:55:24:92:
+                    6c:35:f2:9c:87:3c:54:e5:24:d5:45:1c:02:27:28:
+                    a7:2e:23:59:b0:df:59:de:ed:ef:89:95:20:49:27:
+                    3f:dd:24:c7:b8:c8:1a:0b:cc:4b:b9:96:0d:72:60:
+                    de:d4:a4:d8:17:e5:46:44:cb:0b:de:52:55:7f:a5:
+                    a5:ae:39:ed:9f:74:36:73:5e:bd:9d:6f:d6:f2:0f:
+                    5d:e8:26:55:9c:2a:20:e1:74:94:a7:53:79:50:ac:
+                    14:69:42:13:d1:26:0c:17:3a:cd:1c:a6:5a:3a:4a:
+                    0d:8a:15:bc:11:f0:77:f8:fb:f9:ea:22:af:78:4d:
+                    10:fd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                D0:76:62:63:2C:CD:33:57:1B:AE:7E:79:FE:83:DC:62:12:04:56:EB
+            X509v3 Authority Key Identifier: 
+                keyid:13:33:A4:6E:C5:22:56:36:9C:FA:8D:0C:08:AA:29:32:2A:F8:CB:E6
+                DirName:/C=US/ST=OH/L=Cincinnati/O=CDX Project/OU=Dept. Elec. Eng. & Comp. Sys./CN=CDX Project CA/name=EasyRSA/emailAddress=franco@gauss.ececs.uc.edu
+                serial:BA:A7:AB:B8:0A:47:F3:70
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:red-05
+    Signature Algorithm: sha256WithRSAEncryption
+         83:b7:f5:de:b7:8b:66:3d:ba:e0:9c:5e:26:dd:02:f2:a8:b1:
+         a1:8d:d7:bf:fd:a9:8e:a1:ef:74:39:f2:ab:8f:20:56:de:5d:
+         99:4c:64:42:03:96:70:80:6b:b6:b2:14:20:70:ca:3c:88:8f:
+         75:56:b2:51:93:9e:69:15:f2:88:44:f5:1c:81:e5:c1:cb:e4:
+         4d:9f:7b:4f:0f:05:04:4f:27:5e:16:dd:e6:73:de:0f:e4:4a:
+         46:02:7f:15:fa:df:7a:34:1e:a1:04:3a:07:5d:10:a8:a7:c5:
+         9b:3d:ae:4a:f9:44:71:28:11:ac:d9:e7:68:d3:49:fd:61:ad:
+         58:f7:3c:68:45:c4:2d:a0:61:98:67:57:2e:61:63:b4:15:9b:
+         e0:3e:19:f5:60:50:1a:5b:59:bc:93:fb:a6:cf:37:3f:5f:18:
+         06:1f:07:88:1b:e6:21:45:12:9f:b9:1b:5f:0b:85:ca:b8:43:
+         4e:89:fd:d4:af:6e:ee:57:1b:aa:4e:cb:13:3f:9c:53:eb:83:
+         e9:f8:98:ab:01:13:6a:7d:fc:9a:09:af:70:cb:59:b9:97:b7:
+         4b:a6:8b:a8:8e:55:b1:09:2f:b1:66:46:c6:f5:32:4c:26:8f:
+         a2:a9:ef:1e:cf:d0:5f:b8:dd:0f:db:31:e1:02:5b:3a:c0:de:
+         bb:48:00:05
+-----BEGIN CERTIFICATE-----
+MIIFhzCCBG+gAwIBAgIBMTANBgkqhkiG9w0BAQsFADCBwjELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAk9IMRMwEQYDVQQHEwpDaW5jaW5uYXRpMRQwEgYDVQQKEwtDRFgg
+UHJvamVjdDEmMCQGA1UECxQdRGVwdC4gRWxlYy4gRW5nLiAmIENvbXAuIFN5cy4x
+FzAVBgNVBAMTDkNEWCBQcm9qZWN0IENBMRAwDgYDVQQpEwdFYXN5UlNBMSgwJgYJ
+KoZIhvcNAQkBFhlmcmFuY29AZ2F1c3MuZWNlY3MudWMuZWR1MB4XDTE3MTExOTIw
+NTkxMFoXDTI3MTExNzIwNTkxMFowgboxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJP
+SDETMBEGA1UEBxMKQ2luY2lubmF0aTEUMBIGA1UEChMLQ0RYIFByb2plY3QxJjAk
+BgNVBAsUHURlcHQuIEVsZWMuIEVuZy4gJiBDb21wLiBTeXMuMQ8wDQYDVQQDEwZy
+ZWQtMDUxEDAOBgNVBCkTB0Vhc3lSU0ExKDAmBgkqhkiG9w0BCQEWGWZyYW5jb0Bn
+YXVzcy5lY2Vjcy51Yy5lZHUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCWzoflFccPNy7BBA2R1lBMWduGgzSCSQ4v632LvJmNteLM8op5GAY4CTU0x5CY
+UxNITc5YAijyMTwK0HZtxokNO1LuXImHCR0latrQ4FiAMC4BhDR9U6PdyPmWL82n
+3eAeuNW2+DsGeoLbL8UqJ+9ag6GBxiUXudE7FNgjlAd2UrJd1lUkkmw18pyHPFTl
+JNVFHAInKKcuI1mw31ne7e+JlSBJJz/dJMe4yBoLzEu5lg1yYN7UpNgX5UZEywve
+UlV/paWuOe2fdDZzXr2db9byD13oJlWcKiDhdJSnU3lQrBRpQhPRJgwXOs0cplo6
+Sg2KFbwR8Hf4+/nqIq94TRD9AgMBAAGjggGMMIIBiDAJBgNVHRMEAjAAMC0GCWCG
+SAGG+EIBDQQgFh5FYXN5LVJTQSBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0O
+BBYEFNB2YmMszTNXG65+ef6D3GISBFbrMIH3BgNVHSMEge8wgeyAFBMzpG7FIlY2
+nPqNDAiqKTIq+MvmoYHIpIHFMIHCMQswCQYDVQQGEwJVUzELMAkGA1UECBMCT0gx
+EzARBgNVBAcTCkNpbmNpbm5hdGkxFDASBgNVBAoTC0NEWCBQcm9qZWN0MSYwJAYD
+VQQLFB1EZXB0LiBFbGVjLiBFbmcuICYgQ29tcC4gU3lzLjEXMBUGA1UEAxMOQ0RY
+IFByb2plY3QgQ0ExEDAOBgNVBCkTB0Vhc3lSU0ExKDAmBgkqhkiG9w0BCQEWGWZy
+YW5jb0BnYXVzcy5lY2Vjcy51Yy5lZHWCCQC6p6u4CkfzcDATBgNVHSUEDDAKBggr
+BgEFBQcDAjALBgNVHQ8EBAMCB4AwEQYDVR0RBAowCIIGcmVkLTA1MA0GCSqGSIb3
+DQEBCwUAA4IBAQCDt/Xet4tmPbrgnF4m3QLyqLGhjde//amOoe90OfKrjyBW3l2Z
+TGRCA5ZwgGu2shQgcMo8iI91VrJRk55pFfKIRPUcgeXBy+RNn3tPDwUETydeFt3m
+c94P5EpGAn8V+t96NB6hBDoHXRCop8WbPa5K+URxKBGs2edo00n9Ya1Y9zxoRcQt
+oGGYZ1cuYWO0FZvgPhn1YFAaW1m8k/umzzc/XxgGHweIG+YhRRKfuRtfC4XKuENO
+if3Ur27uVxuqTssTP5xT64Pp+JirARNqffyaCa9wy1m5l7dLpouojlWxCS+xZkbG
+9TJMJo+iqe8ez9BfuN0P2zHhAls6wN67SAAF
+-----END CERTIFICATE-----
