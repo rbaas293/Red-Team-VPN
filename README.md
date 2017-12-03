@@ -11,6 +11,26 @@ cd Red-Team-VPN
 cp client.cof /etc/openvpn
 cp -r credentials /etc/openvpn
 ```
+#### Run the following to set witch virtual machine and port you want to use:
+```
+cd /etc/openvpn
+sudo nano client.conf
+```
+* Find the following line of code in the client.conf file:
+    ```
+    ca /etc/openvpn/credentials/ca.crt
+    cert /etc/openvpn/credentials/red-04.crt
+    key /etc/openvpn/credentials/red-04.key
+     ```
+    and replace all instances of `red-00` with your corrisponding assigned virtual machine.
+
+* Scroll to the bottom of the file and find:
+    ```
+    # Choose your port
+    socks-proxy 127.0.0.1 <your-port>
+    ```
+    and replace `<your-port>` with any port between 1-66000.
+
 ## Connecting vpn:
 Change the last line to the port you want:
 ```
