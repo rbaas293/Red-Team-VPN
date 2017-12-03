@@ -1,6 +1,6 @@
 # Red-Team-VPN
 how to connect to red team vpn 
-See the following in Markdown format (https://github.com/rbaas293/Red-Team-VPN)[here]
+See the following in Markdown format (here)[https://github.com/rbaas293/Red-Team-VPN]
 ## Install Openvpn (if needed)
 `sudo apt-get install openvpn bridge-utils`
 
