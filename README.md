@@ -34,7 +34,7 @@ sudo nano client.conf
 ## Connecting vpn:
 * Fill in the following with your information:
     ```
-    ssh -N -f -C -D <your-port> <your-UC-6+2>@ucfilespace.uc.edu`
+    ssh -N -f -C -D <your-port> <your-UC-6+2>@ucfilespace.uc.edu
     sudo openvpn client.conf
     ```
 
