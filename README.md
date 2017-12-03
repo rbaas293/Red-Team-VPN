@@ -32,11 +32,11 @@ sudo nano client.conf
     and replace `<your-port>` with any port between 1-66000.
 
 ## Connecting vpn:
-Change the last line to the port you want:
-```
-ssh -N -f -C -D <your-port> <your-UC-6+2>@ucfilespace.uc.edu`
-sudo openvpn client.conf
-```
+* Fill in the following with your information:
+    ```
+    ssh -N -f -C -D <your-port> <your-UC-6+2>@ucfilespace.uc.edu`
+    sudo openvpn client.conf
+    ```
 
 
 
