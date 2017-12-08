@@ -19,8 +19,8 @@ sudo nano client.conf
 * Find the following line of code in the `client.conf` file:
     ```
     ca /etc/openvpn/credentials/ca.crt
-    cert /etc/openvpn/credentials/red-04.crt
-    key /etc/openvpn/credentials/red-04.key
+    cert /etc/openvpn/credentials/red-00.crt
+    key /etc/openvpn/credentials/red-00.key
      ```
     and replace all instances of `red-00` with your corrisponding assigned virtual machine.
 
