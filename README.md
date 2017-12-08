@@ -11,12 +11,12 @@ cd Red-Team-VPN
 cp client.cof /etc/openvpn
 cp -r credentials /etc/openvpn
 ```
-#### Run the following to set witch virtual machine and port you want to use:
+#### Run the following to set which virtual machine and port you want to use:
 ```
 cd /etc/openvpn
 sudo nano client.conf
 ```
-* Find the following line of code in the client.conf file:
+* Find the following line of code in the `client.conf` file:
     ```
     ca /etc/openvpn/credentials/ca.crt
     cert /etc/openvpn/credentials/red-04.crt
